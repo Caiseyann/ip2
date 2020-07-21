@@ -1,0 +1,11 @@
+@media screen and (max-width:480px) {} 
+body { 
+    background-color: #C7EA46;
+    color: black;
+    font-family:fantasy; 
+}
+img {
+    float: right;
+}
+
+    
